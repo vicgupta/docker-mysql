@@ -3,7 +3,7 @@ docker-mysql
 
 A docker build for mysql 5.5 on Ubuntu
 
-To Download (via git):
+To Download (via git): <br>
 git clone http://github.com/vicgupta/docker-mysql
 
 To Build: <br>
